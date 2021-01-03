@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 
-## MInigames
+## Minigames <a id="mg"></a>
 
-* [Minigames](minigames/minigames.md)
+* [Minigames](mg/minigames.md)
 
