@@ -4,5 +4,6 @@
 
 ## Minigames <a id="mg"></a>
 
-* [Minigames](mg/minigames.md)
+* [Minigame List](mg/mg-list.md)
+* [BedWars](mg/bw.md)
 

@@ -17,7 +17,7 @@ Each minigame has a guide on how to play, including tips and tricks on how to ma
 3. Add the page name and extension into the `summary.md` of your fork. Ensure it is in the correct category.
 4. Make a pull request, and wait for it to be added.
 
-{% hint style="danger" %}
-**Something Wrong?** Join our [Discord](https://discord.gg/4mU4WVv22Z) and let us know!
+{% hint style="success" %}
+Join our [Discord](https://discord.gg/4mU4WVv22Z).
 {% endhint %}
 
