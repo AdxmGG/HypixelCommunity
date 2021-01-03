@@ -16,7 +16,7 @@ Click each game to visit their guides!
 
 ## Competitive Gamemodes
 
-* Duels
+* [Duels](competitive-gamemodes/duels.md)
 * Smash Heroes
 * Warlords
 
