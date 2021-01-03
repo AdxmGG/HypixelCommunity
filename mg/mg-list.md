@@ -22,7 +22,7 @@ Click each game to visit their guides!
 
 ## Suvival Gamemodes
 
-* [BedWars](bw.md)
+* [BedWars](survival-gamemodes/bw.md)
 * SkyWars
 * Muder Mystery
 * VampireZ

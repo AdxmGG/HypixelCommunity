@@ -5,5 +5,6 @@
 ## Minigames <a id="mg"></a>
 
 * [Minigame List](mg/mg-list.md)
-* [BedWars](mg/bw.md)
+* [Survival Gamemodes](mg/survival-gamemodes/README.md)
+  * [BedWars](mg/survival-gamemodes/bw.md)
 
